@@ -1,6 +1,6 @@
 //33. Search in Rotated Sorted Array
 
-public class Q33 {
+public class Q0033_Search_in_Rotated_Array {
       public int search(int[] nums, int target) {
         int low = 0;
         int high = nums.length-1;
